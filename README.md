@@ -1,2 +1,2 @@
 # java
-java basic progams
+java basic programs
